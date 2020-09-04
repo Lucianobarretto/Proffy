@@ -1,5 +1,9 @@
 <h1 align="center">Projeto - Next Level Week #02</h1>
 
+<p align="center">
+  <img align="center" src="Proffy_tela.jpeg" alt="Tela do Projeto Proffy">
+</p>
+
 <h2 align="center">Under Construction</h2>
 
 <p align="center">
